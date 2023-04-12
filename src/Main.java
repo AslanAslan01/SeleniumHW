@@ -3,5 +3,6 @@ public class Main {
 
 
         System.out.println("I am a project");
+        System.out.println("I am a continuation to project");
     }
 }
